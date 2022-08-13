@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @son-byte
 - 👀 I’m interested in coding, building bots, AI, ML and visualization
 - 🌱 I’m currently learning Git, and ML modeling
-- 💞️ I’m looking to collaborate on pyhton, robots, chatbots, ML modeling
+- 💞️ I’m looking to collaborate on python, robots, chatbots, ML modeling
 - 📫 How to reach me just drop by an email at sonalgoel45@gmail.com
 
 <!---
